@@ -1,0 +1,2 @@
+include ':project4_1'
+rootProject.name = "2-2-mobile-programming"
